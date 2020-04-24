@@ -1,0 +1,15 @@
+{
+  "name": "movies-store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "next build",
+    "start": "next"
+  },
+  "dependencies": {
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
